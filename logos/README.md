@@ -2,18 +2,9 @@
 
 这里提供了[TOPS课题组](tops.tongji.edu.cn)的三种LOGO版本，均以底色命名，每个版本提供5种文件格式。
 
-## 主LOGO
-
-蓝色底
-
-![blue TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/thumbs/blue%20TOPS%20thumb.png)
-
-## 辅助LOGO
-
-1.白色底
-
-![white TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/thumbs/white%20TOPS%20thumb.png)
-
-2.灰色底
-
-![gray TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/thumbs/gray%20TOPS%20thumb.png)
+|             |                                                                                                    | 矢量                                                                                      |                                                                                           |                                                                                           | 位图                                                                                      |                                                                                           |
+|:-----------:|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|             | 图形                                                                                               | emf                                                                                       | svg                                                                                       | eps                                                                                       | png                                                                                       | jps                                                                                       |
+| 主Logo      | ![blue TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/thumbs/blue%20TOPS%20thumb.png)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/blue%20TOPS/blue%20TOPS.emf)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/blue%20TOPS/blue%20TOPS.svg)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/blue%20TOPS/blue%20TOPS.eps)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/blue%20TOPS/blue%20TOPS.png)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/blue%20TOPS/blue%20TOPS.jps)   |
+| 辅助Logo 1  | ![white TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/thumbs/white%20TOPS%20thumb.png) | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/white%20TOPS/white%20TOPS.emf) | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/white%20TOPS/white%20TOPS.svg) | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/white%20TOPS/white%20TOPS.eps) | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/white%20TOPS/white%20TOPS.png) | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/white%20TOPS/white%20TOPS.jps) |
+| 辅助Logo 2  | ![gray TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/thumbs/gray%20TOPS%20thumb.png)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/gray%20TOPS/gray%20TOPS.emf)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/gray%20TOPS/gray%20TOPS.svg)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/gray%20TOPS/gray%20TOPS.eps)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/gray%20TOPS/gray%20TOPS.png)   | [下载](https://github.com/getAbchin/TOPS/blob/master/logos/gray%20TOPS/gray%20TOPS.jps)   |
