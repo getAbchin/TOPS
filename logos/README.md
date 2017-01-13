@@ -1,6 +1,6 @@
 # LOGO下载说明
 
-这里提供了[TOPS课题组](tops.tongji.edu.cn)的三种LOGO版本，均以底色命名，每个版本提供5种文件格式。
+这里提供了[TOPS课题组](http://tops.tongji.edu.cn)的三种LOGO版本，均以底色命名，每个版本提供5种文件格式。
 ## 色彩
 
 - 【推荐】**蓝色底为主Logo，一般情况下请使用该Logo**
