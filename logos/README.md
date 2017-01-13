@@ -3,4 +3,4 @@
 
 ## 主LOGO
 蓝色底
-![blue TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/blue%20TOPS/blue%20TOPS.png)
+![blue TOPS](https://github.com/getAbchin/TOPS/blob/master/logos/blue%20TOPS/blue%20TOPS.png =50x65)
